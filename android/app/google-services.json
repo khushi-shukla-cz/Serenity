@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625175170053",
+    "project_id": "balance-8dcfa",
+    "storage_bucket": "balance-8dcfa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625175170053:android:0229ed091588bb688fe06c",
+        "android_client_info": {
+          "package_name": "bal.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625175170053-4kqb2gn20ls2f5fk2qrc9b06ihdadh2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bal.com",
+            "certificate_hash": "8a6967b32b70354c46e67e0aaa69f712cb594d2b"
+          }
+        },
+        {
+          "client_id": "625175170053-8hkj7fj554kbrp485dod3prog4l6c2b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj_l2hHXFE9wMMzKcZg66iGtAN-KbQ1B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625175170053-8hkj7fj554kbrp485dod3prog4l6c2b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
